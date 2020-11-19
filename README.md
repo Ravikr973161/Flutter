@@ -6,3 +6,20 @@ Developing Android apps with Kotlin.
 **1] Birthday Card app**
 
 <p align="center"><img src="assets/hap.png" /></p>
+
+
+**Requirements**
+- Android Studio 4.0.0
+- JDK 8
+- Android SDK 29
+- Supports API Level +21
+- Material Components 1.3.0-alpha01
+
+**Highlights**
+- Use [-] API
+- Use Material Design 
+- Dark Mode
+- Support two language. English 
+- Use locale Database
+
+**Demo** application is available in [-]
