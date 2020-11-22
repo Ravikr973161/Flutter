@@ -7,6 +7,10 @@ Developing Android apps with Kotlin.
 
 <p align="center"><img src="assets/hap.png" /></p>
 
+**1] Dice Roller App**
+
+<p align="center"><img src="assets/DiceRoller.png" /></p>
+
 
 **Requirements**
 - Android Studio 4.0.0
