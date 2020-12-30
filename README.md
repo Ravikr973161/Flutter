@@ -7,10 +7,13 @@ Developing Android apps with Kotlin.
 
 <p align="center"><img src="assets/hap.png" /></p>
 
-**1] Dice Roller App**
+**2] Dice Roller App**
 
 <p align="center"><img src="assets/DiceRoller.png" /></p>
 
+**3] TipTime App**
+
+<p align="center"><img src="assets/Tip.png" /></p>
 
 **Requirements**
 - Android Studio 4.0.0
