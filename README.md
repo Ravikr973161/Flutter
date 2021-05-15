@@ -15,7 +15,7 @@ Developing Android apps with Kotlin.
 
 <p align="center"><img src="assets/Tip.png" /></p>
 
-**3] TipTime App**
+**3] Registration Form App**
 
 <p align="center"><img src="assets/Regform.png" /></p>
 
